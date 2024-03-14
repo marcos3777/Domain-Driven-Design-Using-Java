@@ -12,7 +12,7 @@ public class AplicacaoOrientadaObjetos {
         Scanner tec = new Scanner(System.in);
 
         System.out.println(um.getNumero() + um.getQuestao());
-        String nome = tex.nextLine();
+        String nome = tec.nextLine();
 
         Resposta resp1 = new Resposta(nome, nome , um.getNumero());
 
