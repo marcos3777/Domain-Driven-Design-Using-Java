@@ -15,7 +15,7 @@ public Pergunta(int number, String question, String theme){
 
 }
 
-public int getNumbero(){
+public int getNumero(){
     return numero;
 }
 
@@ -36,7 +36,7 @@ public String getTema(){
 }
 
 public void setTema(String t){
-    
+
 }
 
 }

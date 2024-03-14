@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Conceito {
+public class Aplicacao {
 
     public static void main(String[] args) {
 
@@ -9,7 +9,7 @@ public class Conceito {
         System.out.println("1. Qual o seu nome?");
         String nome = tec.nextLine();
 
-        System.out.println("2. Defina classe e objeto?")
+        System.out.println("2. Defina classe e objeto?");
         String defClasse = tec.nextLine();
 
         System.out.println("3. Qual a função do construtor?");
