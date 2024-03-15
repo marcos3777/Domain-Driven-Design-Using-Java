@@ -1,4 +1,4 @@
-package Exercicios;
+package exercicios.Exer_3_e_4;
 
 public class Data {
 

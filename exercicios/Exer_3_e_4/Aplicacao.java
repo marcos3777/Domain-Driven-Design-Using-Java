@@ -1,4 +1,4 @@
-package Exercicios;
+package exercicios.Exer_3_e_4;
 
 import java.util.Scanner;
 
@@ -31,6 +31,7 @@ public class Aplicacao {
      //else
     toString(um);
     System.out.println(toString(um));
+    tec.close();
     }
 
 
