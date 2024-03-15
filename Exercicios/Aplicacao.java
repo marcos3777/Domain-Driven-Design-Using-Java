@@ -29,7 +29,8 @@ public class Aplicacao {
 
     
      //else
-     System.out.println(um.getDia() +"/"+ um.getMes() +"/"+ um.getAno());
+    toString(um);
+    System.out.println(toString(um));
     }
 
 
@@ -51,5 +52,9 @@ public static void checarAno(Data um){
         System.out.println("Ano foi digitado errado ou vc é menor de 18 anos.");
         System.exit(0);
         }
+    }
+
+    public static String toString(Data um){
+        return um.getDia() +"/"+ um.getMes() +"/"+ um.getAno();
     }
 }
