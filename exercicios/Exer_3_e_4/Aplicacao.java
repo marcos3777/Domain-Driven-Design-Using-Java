@@ -31,7 +31,6 @@ public class Aplicacao {
      //else
     toString(um);
     System.out.println(toString(um));
-    tec.close();
     }
 
 
