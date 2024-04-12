@@ -1,4 +1,4 @@
-package exe_aula;
+package exercicios.exe_aula;
 import java.util.Scanner;
 
 public class Aplicacao {

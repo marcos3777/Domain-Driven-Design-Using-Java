@@ -1,5 +1,5 @@
 
-package exe_aula;
+package exercicios.exe_aula;
 
 public class Calculadora {
     private double num1;

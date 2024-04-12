@@ -1,4 +1,4 @@
-package Exe_Conta_Mercado;
+package exercicios.Exe_Conta_Mercado;
 
 public class Conta {
 
